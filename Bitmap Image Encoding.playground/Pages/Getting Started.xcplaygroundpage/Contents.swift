@@ -15,7 +15,7 @@ import PlaygroundSupport
  */
 let encodedBitmap = getEncodedBitmapString()
 
-// I notice that...
+// I notice that the numbers constantly change every time it runs and are all values of 1's and 0's.
 /*:
  Now, **remember to commit and push your work**.
  */
