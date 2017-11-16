@@ -51,8 +51,8 @@ for character in encodedBitmap {
  
  Write your ideas in the code comment below.
  */
-// I notice that...
-// I know this because...
+// I notice that the squares on the grid are coloured in based on the numbers produced by the string. When the number is a 0, the colour of the square is black. When the number is a 1, the colour of the square is white.
+// I know this because from the if else statement, it states that if the number is 0, the square is coloured in black. If it is not a 0 (only other number is 1), then the square is coloured in white.
 /*:
  Now, **remember to commit and push your work**.
  */
